@@ -1,9 +1,7 @@
 
  
-- Title: Food Deliveryt App, 
-- Purpose:Food Deliveryt App,
-- Created Date: 28 Feb, 2021,
-- Created By:Kalpesh Khandla
+- Title: Food Delivery Tobis
+
 
 
 # On Demand flutter_food_delivery_app_ui
